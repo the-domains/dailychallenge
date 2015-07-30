@@ -3,14 +3,14 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dailychallenge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 20:23:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jul 2015 20:42:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dailychallenge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04d8a06e-b6ea-4b08-9e7a-4fde0463424c.jpg">]]></description>
-            <link>undefined5df4f775-8ca6-4960-b27d-5a173cf9867b/index.html</link>
+            <link>https://thegrid.ai/dailychallenge/5df4f775-8ca6-4960-b27d-5a173cf9867b/index.html</link>
             <guid isPermaLink="false">5df4f775-8ca6-4960-b27d-5a173cf9867b</guid>
             <pubDate>Tue, 28 Jul 2015 20:23:47 GMT</pubDate>
         </item>

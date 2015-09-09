@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[DailyChallenge]]></title>
+        <description><![CDATA[DailyChallenge]]></description>
         <link>https://thegrid.ai/dailychallenge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 20:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2015 22:21:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dailychallenge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04d8a06e-b6ea-4b08-9e7a-4fde0463424c.jpg">]]></description>
-            <link>https://thegrid.ai/dailychallenge/5df4f775-8ca6-4960-b27d-5a173cf9867b/index.html</link>
+            <link>https://thegrid.ai/dailychallenge/to-forgive-is-to-set-a-prisoner-free-and-discover-that-the/index.html</link>
             <guid isPermaLink="false">5df4f775-8ca6-4960-b27d-5a173cf9867b</guid>
-            <pubDate>Tue, 28 Jul 2015 20:23:47 GMT</pubDate>
+            <pubDate>Wed, 09 Sep 2015 22:21:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

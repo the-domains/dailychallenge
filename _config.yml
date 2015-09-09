@@ -23,8 +23,8 @@ color:
     - '#3c210e'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0
 purpose:
   - name: follow
     item: null
